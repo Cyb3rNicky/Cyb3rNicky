@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img alt="Coding" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFja3FxcGpzeTd2Mm0zdnhlb2tnMG11a2xvY3NxczA2bmt4YXJrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c253NftTabLrxNLlEG/giphy.gif">
+  <img alt="Coding" width="900" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFja3FxcGpzeTd2Mm0zdnhlb2tnMG11a2xvY3NxczA2bmt4YXJrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c253NftTabLrxNLlEG/giphy.gif">
 </p>
 
 <p align="center">
