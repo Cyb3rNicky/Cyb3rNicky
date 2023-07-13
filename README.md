@@ -2,7 +2,9 @@
   <img alt="Coding" width="900" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFja3FxcGpzeTd2Mm0zdnhlb2tnMG11a2xvY3NxczA2bmt4YXJrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c253NftTabLrxNLlEG/giphy.gif">
 </p>
 
-### Hola, soy Nicolás Del Valle
+<h2 align="left">
+  Hola, soy Nicolás Del Valle
+</h2>
 
 ¡Bienvenido/a a mi perfil de GitHub! 
 
@@ -16,21 +18,21 @@ Soy un Full Stack Developer apasionado por la tecnología y en constante proceso
 
 ¡Gracias por visitar mi perfil y espero que encuentres mis proyectos interesantes!
 
-<h2 align="center">
-  <strong>Connect with me </strong>
+<h2 align="left">
+  <strong>Connect with me: </strong>
 </h2>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/nicolas-del-valle-del-valle/">
     <img height="32" width="32" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="LinkedIn Logo">
   </a>
 </p>
 
-<h2 align="center">
-  <strong> Languages and Tools </strong>
+<h2 align="left">
+  <strong> Languages and Tools: </strong>
 </h2>
 
-<p align="center">
+<p align="left">
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -45,8 +47,10 @@ Soy un Full Stack Developer apasionado por la tecnología y en constante proceso
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 
-<h2 align="center">
-  <strong> My GitHub Stats </strong>
+<br>
+
+<h2 align="left">
+  <strong> My GitHub Stats: </strong>
 </h2>
 
 <div align="center">
