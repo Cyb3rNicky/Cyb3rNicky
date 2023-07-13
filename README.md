@@ -59,3 +59,11 @@ Soy un Full Stack Developer apasionado por la tecnología y en constante proceso
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Cyb3rNicky&theme=radical" alt="GitHub Streak">
   </a>
 </div>
+
+<br>
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cyb3rNicky&theme=radical&row=2&column=3" alt="GitHub Trophies">
+</a>
+</div>
