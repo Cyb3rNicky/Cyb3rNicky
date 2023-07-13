@@ -53,7 +53,7 @@ Soy un Full Stack Developer apasionado por la tecnología y en constante proceso
   <strong> My GitHub Stats: </strong>
 </h2>
 
-<div align="center">
+<div align="left">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Cyb3rNicky&theme=radical" alt="GitHub Streak">
   </a>
@@ -61,7 +61,7 @@ Soy un Full Stack Developer apasionado por la tecnología y en constante proceso
 
 <br>
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Cyb3rNicky&theme=radical&column=7" alt="GitHub Trophies">
 </a>
@@ -69,7 +69,7 @@ Soy un Full Stack Developer apasionado por la tecnología y en constante proceso
 
 <br>
 
-<p align="center">
+<p align="left">
   <img height="190" src="https://github-readme-stats-kuqksve92-cyb3rnicky.vercel.app/api?username=Cyb3rNicky&show_icons=true&theme=radical&rank_icon=github" alt="Cyb3rNicky GitHub stats" />
   <img height="190" src="https://github-readme-stats-kuqksve92-cyb3rnicky.vercel.app/api/top-langs/?username=Cyb3rNicky&layout=compact&theme=radical" alt="Top Langs" />
 </p>
