@@ -17,7 +17,7 @@ Soy un Full Stack Developer apasionado por la tecnología y en constante proceso
 ¡Gracias por visitar mi perfil y espero que encuentres mis proyectos interesantes!
 
 <h2 align="center">
-  <strong>Connect with me <img src="https://media.giphy.com/media/QdrcExYfIQFaM/giphy.gif" alt="GIF de Giphy" width="75" height="70"></strong>
+  <strong>Connect with me </strong>
 </h2>
 
 <p align="center">
@@ -27,7 +27,7 @@ Soy un Full Stack Developer apasionado por la tecnología y en constante proceso
 </p>
 
 <h2 align="center">
-  <strong>Languages and Tools <img src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy-downsized.gif" alt="GIF de Giphy" width="75" height="70"></strong>
+  <strong> Languages and Tools </strong>
 </h2>
 
 <p align="center">
@@ -50,17 +50,17 @@ Soy un Full Stack Developer apasionado por la tecnología y en constante proceso
 </h2>
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cyb3rNicky&theme=radical&row=2&column=3" alt="GitHub Trophies">
-</a>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Cyb3rNicky&theme=radical" alt="GitHub Streak">
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Cyb3rNicky&theme=radical" alt="GitHub Streak">
-  </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cyb3rNicky&theme=radical&column=7" alt="GitHub Trophies">
+</a>
 </div>
 
 <br>
