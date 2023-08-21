@@ -11,7 +11,7 @@
 
 <div>
 <img width="50" height="50" src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy.gif" >
-<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7FF&width=435&lines=Hey+There!+%3A);My+name+is+Nicolas;I'm+22+years+old;I'm+from+Guatemala;I+study+system+ennginery" alt="Typing SVG" /></a>
+<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7FF&width=435&lines=Hey+There!+%3A);My+name+is+Nicolas;I'm+22+years+old;I'm+from+Guatemala;I+study+system+engineering" alt="Typing SVG" /></a>
 </div>
   
 <h2 align="left">
@@ -47,15 +47,16 @@
   <strong> My GitHub Stats: </strong>
 </h2>
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Cyb3rNicky&theme=radical" alt="GitHub Streak">
   </a>
-</div>
+</div> -->
 
-<br>
+<!-- <br> -->
 
-<div align="left">
+
+<div style="mb" align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Cyb3rNicky&theme=radical&column=7" alt="GitHub Trophies">
 </a>
@@ -67,3 +68,5 @@
   <img height="190" src="https://github-readme-stats-cyb3rnicky.vercel.app/api?username=Cyb3rNicky&theme=radical&rank_icon=github&show_icons=true" alt="Cyb3rNicky GitHub stats" />
   <img height="190" src="https://github-readme-stats-cyb3rnicky.vercel.app/api/top-langs/?username=Cyb3rNicky&theme=radical&layout=compact" alt="Top Langs" />
 </p>
+
+
