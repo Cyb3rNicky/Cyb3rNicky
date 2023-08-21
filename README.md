@@ -1,23 +1,19 @@
 <p align="center">
-  <img alt="Coding" width="900" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFja3FxcGpzeTd2Mm0zdnhlb2tnMG11a2xvY3NxczA2bmt4YXJrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c253NftTabLrxNLlEG/giphy.gif">
+  <img 
+    alt="Coding" 
+    width="900" height="300"    
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdhNTJlOWhsbnp4eGZ3MHlxdWFvdG9rN2E0b3RzdGc5bWR3dnVyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWTkYdgeatVEKhi39i/giphy.gif">
 </p>
 
 <h2 align="left">
-  Hola, soy Nicolás Del Valle
+  About me:
 </h2>
 
-¡Bienvenido/a a mi perfil de GitHub! 
-
-Soy un Full Stack Developer apasionado por la tecnología y en constante proceso de aprendizaje. Disfruto creando soluciones creativas y funcionales a través del desarrollo de software. Mi objetivo es mejorar mis habilidades y conocimientos en cada proyecto en el que trabajo.
-
-- 💻 Actualmente me encuentro enfocado en desarrollar habilidades en el desarrollo web y aplicaciones móviles.
-- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías para mantenerme actualizado en un entorno tecnológico en constante evolución.
-- ⚡ Me encanta trabajar en equipo y colaborar en proyectos desafiantes que me permitan seguir creciendo profesionalmente.
-
-¡No dudes en explorar mis repositorios y proyectos! Si tienes alguna pregunta o estás interesado/a en colaborar en algún proyecto, ¡No dudes en contactarme!
-
-¡Gracias por visitar mi perfil y espero que encuentres mis proyectos interesantes!
-
+<div>
+<img width="50" height="50" src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy.gif" >
+<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7FF&width=435&lines=Hey+There!+%3A);My+name+is+Nicolas;I'm+22+years+old;I'm+from+Guatemala;I+study+system+ennginery" alt="Typing SVG" /></a>
+</div>
+  
 <h2 align="left">
   <strong>Connect with me: </strong>
 </h2>
