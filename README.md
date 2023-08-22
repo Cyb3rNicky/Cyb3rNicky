@@ -65,8 +65,8 @@
 <br>
 
 <p align="left">
-  <img height="190" src="https://github-readme-stats-cyb3rnicky.vercel.app/api?username=Cyb3rNicky&theme=radical&rank_icon=github&show_icons=true" alt="Cyb3rNicky GitHub stats" />
-  <img height="190" src="https://github-readme-stats-cyb3rnicky.vercel.app/api/top-langs/?username=Cyb3rNicky&theme=radical&layout=compact" alt="Top Langs" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Cyb3rNicky&theme=radical&rank_icon=github&show_icons=true" alt="Cyb3rNicky GitHub stats" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3rNicky&theme=radical&layout=compact" alt="Top Langs" />
 </p>
 
 
