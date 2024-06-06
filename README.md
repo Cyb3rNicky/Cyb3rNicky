@@ -11,7 +11,7 @@
 
 <div>
 <img width="50" height="50" src="https://media.giphy.com/media/H3JHrs7JC6duvenDW8/giphy.gif" >
-<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7FF&width=435&lines=Hey+There!+%3A);My+name+is+Nicolas;I'm+22+years+old;I'm+from+Guatemala;I+study+system+engineering" alt="Typing SVG" /></a>
+<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7FF&width=435&lines=Hey+There!+%3A);My+name+is+Nicolas;I'm+23+years+old;I'm+from+Guatemala;I+study+system+engineering" alt="Typing SVG" /></a>
 </div>
   
 <h2 align="left">
