@@ -58,7 +58,7 @@
 
 <div style="mb" align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cyb3rNicky&theme=radical&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cyb3rNicky&theme=radical&column=4" alt="GitHub Trophies">
 </a>
 </div>
 
